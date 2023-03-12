@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://i.gifer.com/J5A.gif)
+![MasterHead](https://i.gifer.com/J5A.gif)
 <h1 align="center">Hi 👋, I'm mustafa</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/J5A.gif">
