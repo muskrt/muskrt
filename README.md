@@ -21,13 +21,7 @@ Star this repo
 Fork on GitHub
 3994
 
-back to edit
 
-copy-markdown
-
-download markdown
-
-download backup
 
 preview
 <h1 align="center">Hi 👋, I'm mustafa</h1>
