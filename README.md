@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" alt="coding" width=400 src="https://i.gifer.com/J5A.gif">
 <h1 align="center">Hi 👋, I'm mustafa</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskrt&label=Profile%20views&color=0e75b6&style=flat" alt="muskrt" /> </p>
 
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **kurtmustafa3005@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
