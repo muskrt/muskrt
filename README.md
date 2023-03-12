@@ -14,15 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Star this repo
-14829
-Fork on GitHub
-3994
-
-
-
-preview
 <h1 align="center">Hi 👋, I'm mustafa</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
 
