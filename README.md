@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ![MasterHead](J5A.gif) -->
-<img align="right" alt="coding" width="100%" src="J5A.gif">
+<img align="right" alt="coding" width="100%" height="300" src="J5A.gif">
 <h1 align="center">Hi 👋, I'm mustafa</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
 
